@@ -1,10 +1,10 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Boas-vindas ao repositório do projeto Docker ToDo List!
+
+<summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
+
+ - Conteinerização de aplicações;
+ - Criar uma conexão entre elas;
+ - Orquestrar seu funcionamento.
+
+Há uma aplicação full-stack neste repositório: um aplicativo de tarefas! 
+Esta aplicação precisava ser conteinerizada para funcionar. Portanto foram desenvolvidos os arquivos de configuração para cada frente específica: Front-end, Back-end e para um aplicativo de teste que valida se as aplicações estão se comunicando.
